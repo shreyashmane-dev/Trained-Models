@@ -11,3 +11,4 @@
 - Minor documentation improvements. (2026-11-01 18:43:01.042006)
 - Added maintenance update. (2026-11-07 18:26:34.490128)
 - Improved development notes. (2026-11-08 12:37:45.772862)
+- Updated project documentation. (2026-11-16 14:32:24.081806)
